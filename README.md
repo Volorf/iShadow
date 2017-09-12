@@ -13,6 +13,6 @@
 2. Double click on ```iShadow.sketchplugin```
 
 ## Contacts
-[Dribbble](https://dribbble.com/Volorf)
-[Linkedin](https://www.linkedin.com/in/oleg-frolov-6a6a4752/)
-[Twitter](https://twitter.com/Volorf)
+* [Dribbble](https://dribbble.com/Volorf)
+* [Linkedin](https://www.linkedin.com/in/oleg-frolov-6a6a4752/)
+* [Twitter](https://twitter.com/Volorf)
