@@ -1,0 +1,25 @@
+{
+  "name": "iShadow",
+  "description": "Creating a beautiful iOS style shadow",
+  "author": "Oleg Frolov",
+  "authorEmail": "frolololeg@gmail.com",
+  "homepage": "https://github.com/Volorf/iShadow",
+  "version": 1.0,
+  "identifier": "com.example.sketch.imageshadow",
+  "compatibleVersion": 40.1,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Create",
+      "identifier": "create",
+      "shortcut": "ctrl shift i",
+      "script": "script.js",
+      "handler": "onRun"
+    }
+  ],
+  "menu": {
+    "items": [
+      "create"
+    ]
+  }
+}
