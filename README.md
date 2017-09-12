@@ -7,3 +7,7 @@
 2. Click on this menu item ```Plugin > iShadow > Create```
 
 ![New lines](/iShadow.gif)
+
+## How to install
+1. [Download the zip file with the iShadow](https://github.com/Volorf/iShadow/archive/master.zip).
+2. Double click on ```iShadow.sketchplugin``
