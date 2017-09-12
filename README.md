@@ -10,4 +10,4 @@
 
 ## How to install
 1. [Download the zip file with the iShadow](https://github.com/Volorf/iShadow/archive/master.zip).
-2. Double click on ```iShadow.sketchplugin``
+2. Double click on ```iShadow.sketchplugin```
