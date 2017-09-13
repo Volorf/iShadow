@@ -1,6 +1,7 @@
 {
   "name": "iShadow",
   "description": "Creating beautiful iOS style shadows",
+  "icon":"",
   "author": "Oleg Frolov",
   "authorEmail": "frolololeg@gmail.com",
   "homepage": "https://github.com/Volorf/iShadow",
@@ -14,7 +15,9 @@
       "identifier": "create",
       "shortcut": "ctrl shift i",
       "script": "script.js",
-      "handler": "onRun"
+      "handler": {"run": "onRun"},
+      "description": "Create beautiful iOS style shadow",
+      "icon": "icon_ishadow.png"
     }
   ],
   "menu": {
